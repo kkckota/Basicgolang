@@ -1,0 +1,7 @@
+# Build artifacts
+bin/
+obj/
+
+# Go binaries
+*.exe
+*.test
